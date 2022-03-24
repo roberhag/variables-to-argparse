@@ -2,7 +2,8 @@
 Given a Python code with variable assignments, turn each assignment into argparse command line arguments with a default value.
 
 Have you ever created a wonderful Python script where all the parameters are defined in the code and thought
-"hey, it would be really nice if there was a way to translate variable assignments into pretty"
+"Hey, it would be really nice if there was a way to translate hardcoded variable assignments into pretty command line arguments"?
+Look no further.
 
 ## Usage
 
